@@ -1,7 +1,5 @@
-# D.-Olagunju-DSA-Capstone-Project-1
-This is the documentation of my Excel Project for the DSA Data Analysis Course.
-
-## Project Topic: Amazon Product Review Analysis: Case Study 1
+# Amazon Product Review Analysis: Case Study 1
+by Damilola Abraham Olagunju
 ### Project Overview
 #### Company Overview
 You are working as a Junior Data Analyst at RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon. Your team has been tasked with analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
@@ -35,9 +33,6 @@ Total Fields: 16 columns
 
 *Final Task: Dashboard Creation*
 Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your creativity
-
-### Data Source(s)
-The data was given by DSA, The Incubator Hub.
 
 ### Analysis (how it was analyzed, steps, methods)
 The data was cleaned and analyzed using Microsoft Excel 2013. 
