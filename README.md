@@ -34,14 +34,14 @@ Total Fields: 16 columns
 *Final Task: Dashboard Creation*
 Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your creativity
 
-### Analysis (how it was analyzed, steps, methods)
+### Analysis 
 The data was cleaned and analyzed using Microsoft Excel 2013. 
 
 Duplicates were removed using product ID, then the data type of the fields were changed accordingly (e.g. those that are prices to *currency datatype*). 
 
 New columns for price bucket range, total potential revenue and a count flag were created to facilitate the analysis.
 
-Pivot tables were then made from the cleaned dataset.
+Pivot tables were then made from the cleaned dataset, and used to make inferences and charts.
 
 ### Answers to questions/Explorative data analysis
 1. What is the average discount percentage by product category?
@@ -77,9 +77,12 @@ Pivot tables were then made from the cleaned dataset.
 
 ### Observation and Recommendation
 
+#### Rating vs Discount
 From the analysis, it was seen that rating is not exactly directly proportional to the increasing discount percentage. 
 Infact, the products with the 3 lowest discount percentages have a ratingn of more than 4.0. The producst with the 
-lowest discount percentages of 38.81%, 39.66% and 44.49% have a rating of 4.5, 4.4 and 4.3 respectively.
+lowest discount percentages of 38.81%, 39.66% and 44.49% have a rating of 4.5, 4.4 and 4.3 respectively while the 
+highest discount rates, 68.33%, 72.0% and 81.50% have ratings of 5, 2.9, and 2.8 respectively. 
+
 
 
 ### Challenges/Limitations
