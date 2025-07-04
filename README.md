@@ -45,6 +45,7 @@ Pivot tables were then made from the cleaned dataset.
 
 ### Answers to questions/Explorative data analysis
 1. What is the average discount percentage by product category?
+
   
 2. How many products are listed under each category?
 
