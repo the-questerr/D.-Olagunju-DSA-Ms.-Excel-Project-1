@@ -75,6 +75,12 @@ Pivot tables were then made from the cleaned dataset.
 
 ### Dashboard
 
-### Recommendation
+### Observation and Recommendation
+
+From the analysis, it was seen that rating is not exactly directly proportional to the increasing discount percentage. 
+Infact, the products with the 3 lowest discount percentages have a ratingn of more than 4.0. The producst with the 
+lowest discount percentages of 38.81%, 39.66% and 44.49% have a rating of 4.5, 4.4 and 4.3 respectively.
+
+
 ### Challenges/Limitations
   
