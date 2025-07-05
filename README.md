@@ -157,11 +157,23 @@ The categories that contains the products with the highest discounts are shown i
 ![Top 5 Rated Products](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/blob/main/Top%205%20Rated%20Products.png)
 
 The top 5 rated products are
-- 
-- 
-- 
-- -
-- 
+- AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot
+  Product ID: B07KSMBL2H
+
+- Amazon Basics High-Speed HDMI Cable, 6 Feet - Supports Ethernet, 3D, 4K video,Black
+Product ID: B014I8SSD0
+
+- Amazon Basics High-Speed HDMI Cable, 6 Feet (2-Pack),Black
+  Product ID: B014I8SX4Y
+
+- boAt Bassheads 100 in Ear Wired Earphones with Mic(Furious Red)
+  Product ID: B07GQD4K6L
+
+- boAt Bassheads 100 in Ear Wired Earphones with Mic(Taffy Pink)
+  Product ID: B07GPXXNNG
+
+
+
 ### Dashboard
 
 ### Observation and Recommendation
