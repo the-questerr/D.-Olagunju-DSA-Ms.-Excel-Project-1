@@ -110,7 +110,9 @@ The top 3 are:
 
 The formula used was
 
-``` =COUNTIF('working sheet'!$G$2:$G$1352, ">=50%") ```
+```
+=COUNTIF('working sheet'!$G$2:$G$1352, ">=50%") 
+```
 
 **8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)?**
 
