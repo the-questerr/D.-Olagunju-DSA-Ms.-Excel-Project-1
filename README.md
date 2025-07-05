@@ -1,9 +1,7 @@
 # Amazon Product Review Analysis: Case Study 1
 by Damilola Abraham Olagunju
-### Project Overview
 
-### Table of Contents
-[Company Overview](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/edit/main/README.md#company-overview)
+### Project Overview
 
 #### Company Overview
 You are working as a Junior Data Analyst at RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon. Your team has been tasked with analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
@@ -135,21 +133,35 @@ This shows that most of the products - 1166 of them - cost more than ₹500, the
 
 ![Rating vs Discount Percentage](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/blob/main/Rating%20vs%20Discount%20Percentage%20(2).png)
 
-It is observed that 
+It is observed that higher discount percentage does not necessarily mean customers give it a higher rating. Infact the products with 2.8 rating have an average discount percentage of 81.50%. So, at this stage, more discount might not exactly do much but other factors should be worked on to improve sales of products with low rating. (e.g. quality of the products)
 
 12. How many products have fewer than 1,000 reviews?
 
+![Products with fewer than 1,000 reviews](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/blob/main/Products%20with%20fewer%20than%201000%20reviews.png)
 
+Formula used was
 
+```
+=COUNTIF('working sheet'!$I$2:$I$1352, "<=1000")
+```
+*The sheet name was added because the calculation was done on another sheet - the pivot table sheet*
 
 13. Which categories have products with the highest discounts?
 
+![Categories with the highest discounts](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/blob/4490556fe305154a0d80ba172a9be0f1cd69acff/Categories%20and%20their%20Maximum%20Percentages%202.png)
 
+The categories that contains the products with the highest discounts are shown in the image with the highest three been **Computer & Accessories**, **Electronics**, **Home & Kitchen** with discount percentages of 94%, 91%, and 90% respectively.
 
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
+![Top 5 Rated Products](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/blob/main/Top%205%20Rated%20Products.png)
 
-
+The top 5 rated products are
+- 
+- 
+- 
+- -
+- 
 ### Dashboard
 
 ### Observation and Recommendation
