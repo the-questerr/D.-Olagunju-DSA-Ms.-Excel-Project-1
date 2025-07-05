@@ -2,9 +2,10 @@
 by Damilola Abraham Olagunju
 
 ### Project Overview
+The Excel project is Case Study 1 of the end of course project for Data Analysis Course organized by Digital Skillup Academy(DSA).
 
 #### Company Overview
-You are working as a Junior Data Analyst at RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon. Your team has been tasked with analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
+I was to assume I am working as a Junior Data Analyst at RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon. My team has been tasked with analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
   
 #### Dataset Description
 The raw ![dataset](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/blob/main/Amazon%20case%20study.xlsx) contains information scraped from Amazon product pages, including:
@@ -17,7 +18,7 @@ Total Records: 1,465 rows
 Total Fields: 16 columns
 
 #### Analysis Tasks
-We were asked to use pivot tables and calculated columns where necessary to answer the following:
+I was asked to use pivot tables and calculated columns where necessary to answer the following:
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
 3. What is the total number of reviews per category?
@@ -34,7 +35,7 @@ We were asked to use pivot tables and calculated columns where necessary to answ
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
 *Final Task: Dashboard Creation*
-Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your creativity
+I was asked to use the cleaned dataset and pivot outputs, to build an Excel dashboard.
 
 ### Analysis 
 The data was cleaned and analyzed using Microsoft Excel 2013. 
@@ -179,7 +180,8 @@ The top 5 rated products are
 
 
 ### Dashboard
-
+Below is a snapshot of the dashboard I created with some charts on the Excel worksheet. 
+![Amazon Dashboard](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/blob/main/Amazon%20Dashboard.png)
 ### Other Observations and Recommendations
 - As it has been observed that **Electronics**, **Computer & Accessories**, **Home & Kitchen** are the categories with the highest potential revenue, there should be actions to improve sales of products in these categories.
 
