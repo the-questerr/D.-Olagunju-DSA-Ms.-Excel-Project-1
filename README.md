@@ -194,4 +194,6 @@ highest discount rates, 68.33%, 72.0% and 81.50% have ratings of 5, 2.9, and 2.8
 
 ### Challenges/Limitations
 There were some error values which I used my discretion to take care of. 
+
+This is ![My Excel worksheet](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/blob/main/Damilola%20Olagunju%20Amazon%20Case%20Study%20Project%20Submission.xlsx) where the work was done.
   
