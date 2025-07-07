@@ -55,6 +55,7 @@ Pivot tables were then made from the cleaned dataset, and used to make inference
 
 It is observed that the category with the highest average discount percentage by product is **Home Improvement**, 57.50%; while the **Toy and Games** category is the lowest on the list with no discount. 
 
+---
 
 **2. How many products are listed under each category?**
 
@@ -62,11 +63,13 @@ It is observed that the category with the highest average discount percentage by
 
 The category with the highest number of products is **Electronics**, and the ones with the least number of products are **Toys & Games**, **Health & Personal Care** and **Car & Motorbike**.
 
+---
 
 **3. What is the total number of reviews per category?**
 
 ![Total Number of Reviews Per Category](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/blob/main/Total%20number%20of%20reviews%20per%20category.png)
 
+---
 
 **4. Which products have the highest average ratings?**
 
@@ -74,9 +77,13 @@ The category with the highest number of products is **Electronics**, and the one
 
 The top 10 products with the highest average ratings are shown in the chart depicted by their product ID. The top 3 products are **Amazon Basics Wireless Mouse**, **Syncwire LTG to USB Cable** and **REDTECH USB-C to Lightning Cable 3.3FT** all with ratings of 5.0.
 
+---
+
 **5. What is the average actual price vs the discounted price by category?**
 
 ![Average price vs discounted price by category](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/blob/main/Average%20Discount%20by%20Product%20Category.png)
+
+---
 
 **6. Which products have the highest number of reviews?**
 
@@ -103,6 +110,7 @@ The top 3 are:
 
   Number of Reviews: 426,973
 
+---
 
 **7. How many products have a discount of 50% or more?**
 
@@ -114,11 +122,15 @@ The formula used was
 =COUNTIF('working sheet'!$G$2:$G$1352, ">=50%") 
 ```
 
+---
+
 **8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)?**
 
 ![Distribution of Product Ratings](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/blob/main/Distribution%20of%20Product%20Ratings.png)
 
 The chart shows that the most of the products have a good rating, with most of the products - 225 of them - having a rating of 4.1.
+
+---
 
 **9. What is the total potential revenue (actual_price × rating_count) by category?**
 
@@ -126,17 +138,23 @@ The chart shows that the most of the products have a good rating, with most of t
 
 From the chart, we can observe that the category that brought the highest revenue is the **Electronics** category, followed by the **Computer & Accessories** and **Home and Kitchen** with total potential revenues of approximately 91 billion, 12 billion, and 10 billion respectively.
 
+---
+
 **10. What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)?**
 
 ![Number of Unique Products per Price Range](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/blob/main/Number%20of%20Unique%20Products%20per%20Price%20Range.png)
 
 This shows that most of the products - 1166 of them - cost more than ₹500, the ones less than ₹500 are 34 in number while the rest of the products have a cost within a range of ₹200 to ₹500. 
 
+---
+
 **11. How does the rating relate to the level of discount?**
 
 ![Rating vs Discount Percentage](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/blob/main/Rating%20vs%20Discount%20Percentage%20(2).png)
 
 It is observed that higher discount percentage does not necessarily mean customers give it a higher rating. Infact the products with 2.8 rating have an average discount percentage of 81.50%. So, at this stage, more discount might not exactly do much but other factors should be worked on to improve sales of products with low rating. (e.g. quality of the products)
+
+---
 
 **12. How many products have fewer than 1,000 reviews?**
 
@@ -149,11 +167,15 @@ Formula used was
 ```
 *The sheet name was added because the calculation was done on another sheet - the pivot table sheet*
 
+---
+
 **13. Which categories have products with the highest discounts?**
 
 ![Categories with the highest discounts](https://github.com/the-questerr/D.-Olagunju-DSA-Ms.-Excel-Project-1/blob/4490556fe305154a0d80ba172a9be0f1cd69acff/Categories%20and%20their%20Maximum%20Percentages%202.png)
 
 The categories that contains the products with the highest discounts are shown in the image with the highest three been **Computer & Accessories**, **Electronics**, **Home & Kitchen** with discount percentages of 94%, 91%, and 90% respectively.
+
+---
 
 **14. Identify the top 5 products in terms of rating and number of reviews combined.**
 
@@ -180,6 +202,7 @@ The top 5 rated products are
 
   Product ID: B07GPXXNNG
 
+---
 
 ### Dashboard
 Below is a snapshot of the dashboard I created with some charts on the Excel worksheet. 
